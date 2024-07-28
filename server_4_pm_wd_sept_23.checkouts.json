@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "651d46ae3da94aaf2f400a13"
+  },
+  "userid": "6512b5088bb4871d14ac18cd",
+  "paymentmode": "COD",
+  "paymentstatus": "Done",
+  "orderstatus": "Delivered",
+  "subtotal": 18723.75,
+  "shipping": 0,
+  "total": 18723.75,
+  "rppid": "",
+  "date": "10/4/2023",
+  "products": [
+    {
+      "productid": "6491687aa886723e298d897d",
+      "name": "Male Jeans Mufti",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "34",
+      "price": 2436,
+      "qty": 1,
+      "total": 2436,
+      "pic": "1687251065974p5.jpg",
+      "_id": {
+        "$oid": "651d46a53da94aaf2f400a0d"
+      }
+    },
+    {
+      "productid": "64916973a886723e298d899b",
+      "name": "Male Shirt Red Mufti",
+      "brand": "Mufti",
+      "color": "Red",
+      "size": "MD",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "1687251315593p16.jpg",
+      "_id": {
+        "$oid": "651d469d3da94aaf2f400a01"
+      }
+    },
+    {
+      "productid": "64a53528b1888fe26671ecc1",
+      "name": "Male Jeans Slim Fit",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "34",
+      "price": 1287.75,
+      "qty": 1,
+      "total": 1287.75,
+      "pic": "1688548993029p10.jpg",
+      "_id": {
+        "$oid": "651d46973da94aaf2f4009f5"
+      }
+    },
+    {
+      "productid": "651bf289c367914fb3c65dd8",
+      "name": "Female Jeans Regular Fit",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "30",
+      "price": 12750,
+      "qty": 1,
+      "total": 12750,
+      "pic": "1696332240494p6.jpg",
+      "_id": {
+        "$oid": "651d45f33da94aaf2f4009d5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e97c7c0fc86893c6464b9"
+  },
+  "userid": "6512b5088bb4871d14ac18cd",
+  "paymentmode": "COD",
+  "paymentstatus": "Pending",
+  "orderstatus": "Order is Placed",
+  "subtotal": 2436,
+  "shipping": 0,
+  "total": 2436,
+  "rppid": "",
+  "date": "10/5/2023",
+  "products": [
+    {
+      "productid": "6491687aa886723e298d897d",
+      "name": "Male Jeans Mufti",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "34",
+      "price": 2436,
+      "qty": 1,
+      "total": 2436,
+      "pic": "1687251065974p5.jpg",
+      "_id": {
+        "$oid": "651e97c3c0fc86893c6464b3"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e9803c0fc86893c6464eb"
+  },
+  "userid": "6512b5088bb4871d14ac18cd",
+  "paymentmode": "COD",
+  "paymentstatus": "Pending",
+  "orderstatus": "Order is Placed",
+  "subtotal": 2496,
+  "shipping": 0,
+  "total": 2496,
+  "rppid": "",
+  "date": "10/5/2023",
+  "products": [
+    {
+      "productid": "64a67d97f8aaa5894910fed3",
+      "name": "Male Jeans Regular Fit",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "34",
+      "price": 2496,
+      "qty": 1,
+      "total": 2496,
+      "pic": "1688632727214p16.jpg",
+      "_id": {
+        "$oid": "651e9800c0fc86893c6464e5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65268383dc99854d0ad7b5a6"
+  },
+  "userid": "6512b5088bb4871d14ac18cd",
+  "paymentmode": "Net Banking",
+  "paymentstatus": "Done",
+  "orderstatus": "Order is Placed",
+  "subtotal": 16533.75,
+  "shipping": 0,
+  "total": 16533.75,
+  "rppid": "pay_Mmshv67G8KzPZo",
+  "date": "10/11/2023",
+  "products": [
+    {
+      "productid": "651bf289c367914fb3c65dd8",
+      "name": "Female Jeans Regular Fit",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "30",
+      "price": 12750,
+      "qty": 1,
+      "total": 12750,
+      "pic": "1696332240494p6.jpg",
+      "_id": {
+        "$oid": "6526837edc99854d0ad7b5a0"
+      }
+    },
+    {
+      "productid": "64a53528b1888fe26671ecc1",
+      "name": "Male Jeans Slim Fit",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "34",
+      "price": 1287.75,
+      "qty": 1,
+      "total": 1287.75,
+      "pic": "1688548993029p10.jpg",
+      "_id": {
+        "$oid": "6526837adc99854d0ad7b594"
+      }
+    },
+    {
+      "productid": "64a67d97f8aaa5894910fed3",
+      "name": "Male Jeans Regular Fit",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "34",
+      "price": 2496,
+      "qty": 1,
+      "total": 2496,
+      "pic": "1688632727214p16.jpg",
+      "_id": {
+        "$oid": "65268374dc99854d0ad7b588"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652683eedc99854d0ad7b606"
+  },
+  "userid": "6512b5088bb4871d14ac18cd",
+  "paymentmode": "Net Banking",
+  "paymentstatus": "Done",
+  "orderstatus": "Order is Placed",
+  "subtotal": 3264,
+  "shipping": 0,
+  "total": 3264,
+  "rppid": "pay_MmscGEKcV8I5dI",
+  "date": "10/11/2023",
+  "products": [
+    {
+      "productid": "6433f5868bbc7fecf71e252b",
+      "name": "Male Jeans Mufti",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "36",
+      "price": 789,
+      "qty": 1,
+      "total": 789,
+      "pic": "1681126790674p16.jpg",
+      "_id": {
+        "$oid": "652683ebdc99854d0ad7b600"
+      }
+    },
+    {
+      "productid": "6433f5d38bbc7fecf71e2543",
+      "name": "Male Jeans Nike",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "34",
+      "price": 2475,
+      "qty": 1,
+      "total": 2475,
+      "pic": "1681126867703p10.jpg",
+      "_id": {
+        "$oid": "652683e5dc99854d0ad7b5f4"
+      }
+    }
+  ],
+  "__v": 0
+}]

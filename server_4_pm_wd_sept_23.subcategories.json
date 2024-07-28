@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "651408beac4e297fedf46c32"
+  },
+  "name": "Trouser",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651408c8ac4e297fedf46c3b"
+  },
+  "name": "Shirt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651408cfac4e297fedf46c40"
+  },
+  "name": "Tshirt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651408d5ac4e297fedf46c45"
+  },
+  "name": "Jeans",
+  "__v": 0
+}]

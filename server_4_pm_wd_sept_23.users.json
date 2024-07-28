@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6512b5088bb4871d14ac18cd"
+  },
+  "name": "Nitin Chauhan",
+  "username": "nitin",
+  "email": "vishankchauhan@gmail.com",
+  "phone": "9873848046",
+  "password": "$2b$12$xVibY6xABNz8Um80uCfQCOBO4nqKFU9/wqz9Pg4dWMGcuZ3dI2SzS",
+  "address": "A-43, Sector 16, Noida, 201301, India",
+  "pin": "201301",
+  "city": "Noida",
+  "state": "UP",
+  "pic": "1695726163782p10.jpg",
+  "role": "Buyer",
+  "otp": 36218,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b5a61d1bd538d8829fe1"
+  },
+  "name": "Vishank Chauhan",
+  "username": "vishank",
+  "email": "vishankchauhan@gmail.com",
+  "phone": "9873848046",
+  "password": "$2b$12$FWNlJK1gd8zYT4C9MPqGwefCUhS1i.zcwqmzEZHV2O2jlnjXK5NCW",
+  "address": "",
+  "pin": "",
+  "city": "",
+  "state": "",
+  "pic": "1695726814224p16.jpg",
+  "role": "Admin",
+  "otp": -1,
+  "__v": 0
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "651407bbac4e297fedf46bfe"
+  },
+  "name": "Kids",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651407c0ac4e297fedf46c03"
+  },
+  "name": "Female",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651407c3ac4e297fedf46c08"
+  },
+  "name": "Male",
+  "__v": 0
+}]
